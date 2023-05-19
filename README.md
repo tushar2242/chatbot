@@ -1,4 +1,4 @@
-# Chatbot using pandas,numpy,tensorflow
+# Chatbot using pandas,numpy,Tensorflow
 
 Started with pd and working with small dataset which has only 80000 rows and 20 columns containing 25 language
 
